@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+}
+header {
+    background-color: aliceblue;
+}
+.contact-h6 {
+    color: aquamarine;
+}
+p {
+    color: blue;
+}
+section article p {
+    color: yellowgreen;
+}
+header nav {
+    background-color: violet;
+}
+footer nav {
+    background-color: yellowgreen;
+}
+nav {
+    color: tomato;
+}
+nav a {
+    color: tomato;
+}

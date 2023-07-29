@@ -1,0 +1,33 @@
+body {
+  background-color: antiquewhite;
+  background-color: #dad7cd;
+}
+/* RGB Code: */
+h1 {
+    color: #fff;
+  background-color: rgb(138, 43, 226);
+  background-color: #a3b18a;
+}
+/* rgb (rot, grün, blau) */
+
+/* Hexadecimal-Code: */
+/* Renkler için coolors.co adresine bakılabilir */
+h2 {
+    color: #fff;
+  background-color: #588157;
+}
+h3 {
+    color: #fff;
+  background-color: #3a5a40;
+}
+/* rgba- Code */
+/* a - Alpha-Wert = Deckkraft/Opazitat bzw. Transparenz */
+h4 {
+    color: #fff;
+  background-color: #344e41;
+}
+/* rgba(rot, grün, blau, alpha) */
+
+p {
+    color: #bc6c25;
+}

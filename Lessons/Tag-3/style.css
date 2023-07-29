@@ -1,0 +1,34 @@
+body {
+  background-color: gold;
+}
+h1 {
+  background-color: aquamarine;
+  color: aliceblue;
+  font-family: monospace;
+}
+
+h2 {
+  background-color: wheat;
+  color: brown;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: blue;
+  color: red;
+}
+/* Cascading Principle */
+/* wasserfallende Prinzip */
+p {
+  color: blue;
+  background-color: yellow;
+}
+.mein-paragraph-in-pink {
+    color: hotpink;
+}
+/* bir başlığa iki class eklenebilir fakat aynı özellikler varsa hangisi alta yazılırsa wasserfllende etkisiyle alttaki esas alınır. */
+.meine-h2 {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+.neue-klasse {
+    background-color: red;
+    color: aqua;
+}

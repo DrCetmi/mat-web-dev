@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.platte {
+    color: #355070;
+    color: #6d597a;
+    color: #b56576;
+    color: #e56b6f;
+    color: #eaac8b;
+}
+body {
+    background-color: #b56576;
+}
