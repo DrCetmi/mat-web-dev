@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    padding: 10px 50px;
+    text-align: justify;
+    background-image: url("https://img.freepik.com/free-photo/stylish-soft-blue-curve-lines-abstract-background_1017-19950.jpg?w=1480&t=st=1684762327~exp=1684762927~hmac=a851877bdbd6270834414ce18cfb779652d4f6fe5ef3c05959022c617969fb4f");
+    
+}
+.erste-paragraph {
+   color: darkblue;
+   background-color: aqua;
+   padding: 10px;
+   margin: 10px 20px;
+}
+
+.zweite-paragraph {
+    color: rgb(16, 59, 230);
+    background-color: rgb(174, 206, 210, 0.5);
+    padding: 20px;
+}
+
+.dritte-paragraph {
+    color: #d2113c;
+    background-color: #efe;
+    padding: 10px;
+}
