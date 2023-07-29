@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.palette {
+    color: #005f73;
+    color: #0a9396;
+    color: #94d2bd;
+    color: #e9d8a6;
+    color: #fdf0d5;
+}
+body {
+    background-color: #fdf0d5;
+    padding: 5px;
+}
+
+section {
+    background-color: #e9d8a6;
+    margin: 20px;
+    border: 2px solid #005f73;
+    padding: 20px;
+}
+
+section p {
+    font-size: 20px;
+    background-color: #fdf0d58e;
+    border: 4px solid #94d2bd;
+    width: 50%;
+    margin: 10px auto;
+    padding: 20px;
+    border-top: 5px solid #005f73;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-left: 5px solid #005f73;
+}
+.dritte {
+    background-color: #e9d8a6;
+    border: 15px double #005f73;
+    margin: 40px;
+    padding: 30px;
+    background-image: url(https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_640.jpg);
+}
+.zweite {
+    background-color: #e9d8a6;
+    border: 10px solid #005f73;
+    margin: 20px;
+    padding: 10px;
+    background-image: url(https://cdn.pixabay.com/photo/2014/09/24/16/28/bricks-459299_640.jpg);
+}
+.eins {
+    background-color: #e9d8a6;
+    border: 5px dotted #005f73;
+    margin: 10px;
+    padding: 20px;
+    background-image: url(https://cdn.pixabay.com/photo/2017/11/04/21/09/textile-2918844_640.jpg);
+}
